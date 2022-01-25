@@ -12,6 +12,8 @@ The table below lists models that were open sourced by official sector entities 
 
 | Jurisdiction | Institution | Model name | Model type | Link to code | Programming language | License | About |
 |---|---|---|---|---|---|---|---|
+| Chile | Banco Central de Chile | MSEP | Semi-structural model | https://www.bcentral.cl/documents/33528/2246274/sec3_3_1_structural_domestic_MSEP.zip/1d5236d2-4db2-b687-bd73-08a09fb5b316?t=1586981365357 | Matlab/Octave + Dynare | Same as for the website | Section 3.3.1 of https://www.bcentral.cl/documents/33528/2246274/Uso_de_modelos_en_el_BCCh_2020.pdf/08cdce8e-7344-4af8-01a3-93c0dc7f39db?t=1586968478573 |
+| Chile | Banco Central de Chile | XMAS | DSGE | https://www.bcentral.cl/documents/33528/2246274/sec3_3_2_structural_domestic_XMAS.zip/726db955-2713-c7d5-9ed8-9ef65eef7475?t=1586981406890 | Matlab/Octave + Dynare | Same as for the website | Section 3.3.2 of https://www.bcentral.cl/documents/33528/2246274/Uso_de_modelos_en_el_BCCh_2020.pdf/08cdce8e-7344-4af8-01a3-93c0dc7f39db?t=1586968478573 |
 | Denmark | Ministry of Finance | MAKRO | Deterministic perfect forecast model | https://github.com/DREAM-DK/MAKRO | GAMS | MIT License | |
 | Euro Area | European Central Bank (ECB) | Bayesian Estimation, Analysis and Regression toolbox (BEAR) | Bayesian vector autoregression (VAR) | https://github.com/european-central-bank/BEAR-toolbox/ | Matlab | Custom end-user license agreement | |
 | European Union | European Commission | Output gap model | | https://circabc.europa.eu/ui/group/671d465b-0752-4a2e-906c-a3effd2340ba/library/b9482682-d5a0-47a1-9281-bc7d8a214629 | WinRATS |  | |
