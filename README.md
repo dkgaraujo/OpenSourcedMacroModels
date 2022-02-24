@@ -21,6 +21,7 @@ The table below lists models that were open sourced by official sector entities 
 | France | French Ministry of Economics and Finance | Mésange | DSGE | https://github.com/InseeFr/Mesange | Troll | https://raw.githubusercontent.com/InseeFr/Mesange/master/LICENSE.txt | https://github.com/InseeFr/Mesange/raw/master/Document%20de%20travail%20Mesange%202017.pdf |
 | Germany | Federal Ministry for Economic Affairs and Climate Action |  | Production function methodology | https://www.bmwi.de/Redaktion/DE/Downloads/G/ergaenzende-unterlagen-zu-den-berechnungsgrundlagen-fuer-die-bestimmung-des-gesamtwirtschaftlichen-produktionspotenzials.zip?__blob=publicationFile&v=14 | EViews | Same as for the website | https://www.bmwi.de/Redaktion/DE/Downloads/G/ergaenzende-unterlagen-zu-den-berechnungsgrundlagen-fuer-die-bestimmung-des-gesamtwirtschaftlichen-produktionspotenzials.html |
 | UK | HM Treasury and Office for Budget Responsibility | OBR model | Large-scale macro-econometric model | https://obr.uk/download/obr-macroeconomic-model-code/ | EViews | Last paragraph of [this page](https://obr.uk/forecasts-in-depth/obr-macroeconomic-model/) | https://obr.uk/forecasts-in-depth/obr-macroeconomic-model/ |
+| UK | [Policy Simulation Library](https://pslmodels.org/) | [OG-UK](https://github.com/PSLmodels/OG-UK) | Large-scale overlapping generations model | https://github.com/PSLmodels/OG-UK | Python | [CC0 1.0 Universal Summary](https://github.com/PSLmodels/OG-UK/blob/main/LICENSE.md) | This model is currently under development. It uses as a dependency the [OG-Core](https://github.com/PSLmodels/OG-Core) model logic and interfaces with the [OpenFisca-UK](https://policyengine.github.io/openfisca-uk/) open-source microsimulation model. [OG-UK documentation](https://pslmodels.github.io/OG-UK/) is also under development. |
 | USA | Federal Reserve Bank of New York (FRBNY) | | Dynamic stochastic general equilibrium (DSGE) | https://github.com/FRBNY-DSGE/DSGE.jl | Julia | BSD-3-Clause License | [Blog post](https://libertystreeteconomics.newyorkfed.org/2015/12/the-frbny-dsge-model-meets-julia/) |
 | USA | Federal Reserve Board | FRB/US | Large-scale, general equilibrium model | https://www.federalreserve.gov/econres/us-models-package.htm | EViews | Same as for the website | https://www.federalreserve.gov/econres/us-models-about.htm |
 | USA | Federal Reserve Board | Estimated Dynamic Optimization (EDO) Model | DSGE | https://www.federalreserve.gov/econres/edo-model-package.htm | Matlab/Octave + Dynare | Same as for the website | https://www.federalreserve.gov/econres/edo-models-about.htm |
@@ -30,8 +31,8 @@ The table below lists models that were open sourced by official sector entities 
 Below are other resources that are worth consulting for their wealth of model code.
 
 ⭐️ https://www.macromodelbase.com
-* Repository of multiple macroeconomic models designed to enable systematic model comparison.  
-* The site contains an online comparison tool, in which you can choose amongst many different models (all well-categorised for ease of reference) and compare their outcome in terms of impulse response functions, etc for given shocks. 
+* Repository of multiple macroeconomic models designed to enable systematic model comparison.
+* The site contains an online comparison tool, in which you can choose amongst many different models (all well-categorised for ease of reference) and compare their outcome in terms of impulse response functions, etc for given shocks.
 
 ⭐️ https://github.com/JohannesPfeifer/DSGE_mod
 * Repository of multiple academic macroeconomic models
