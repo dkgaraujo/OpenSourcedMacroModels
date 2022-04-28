@@ -30,7 +30,13 @@ The table below lists models that were open sourced by official sector entities 
 
 ## Other related resources
 
-Below are other resources that are worth consulting for their wealth of model code.
+Below are other resources that are worth consulting for their wealth of model code. The table below lists policy models open sourced by entities not in the official sector. Other sources are listed after the table.
+
+| Jurisdiction | Institution | Model name | Model type | Link to code | Programming language | License | About |
+|---|---|---|---|---|---|---|---|
+| General | [Policy Simulation Library](https://pslmodels.org/) | [`OG-Core`](https://github.com/PSLmodels/OG-Core) | Large-scale overlapping generations model | https://github.com/PSLmodels/OG-Core | Python | [CC0 1.0 Universal Summary](https://github.com/PSLmodels/OG-Core/blob/master/LICENSE.md) | This core model can be run on its own. But more effective is to create a country-specific calibration that uses `OG-Core` as a dependency (e.g., [`OG-USA`](https://github.com/PSLmodels/OG-USA) and [`OG-UK`](https://github.com/PSLmodels/OG-UK)). [`OG-Core` documentation](https://pslmodels.github.io/OG-Core/) is thorough and up-to-date. |
+| UK | [Policy Simulation Library](https://pslmodels.org/) | [`OG-UK`](https://github.com/PSLmodels/OG-UK) | Large-scale overlapping generations model | https://github.com/PSLmodels/OG-UK | Python | [CC0 1.0 Universal Summary](https://github.com/PSLmodels/OG-UK/blob/main/LICENSE.md) | This model is currently under development. Large-scale overlapping generations model of U.K. fiscal policy. It uses as a dependency the [`OG-Core`](https://github.com/PSLmodels/OG-Core) model logic and interfaces with the [`OpenFisca-UK`](https://policyengine.github.io/openfisca-uk/) open-source microsimulation model. [`OG-UK` documentation](https://pslmodels.github.io/OG-UK/) is also under development. |
+| USA | [Policy Simulation Library](https://pslmodels.org/) | [`OG-USA`](https://github.com/PSLmodels/OG-USA) | Large-scale overlapping generations model | https://github.com/PSLmodels/OG-USA | Python | [CC0 1.0 Universal Summary](https://github.com/PSLmodels/OG-USA/blob/master/LICENSE.md) | Large-scale overlapping generations model of U.S. fiscal policy. It uses as a dependency the [`OG-Core`](https://github.com/PSLmodels/OG-Core) model. `OG-USA` is currently set up to inteface with the open-source [`Tax-Calculator`](https://github.com/PSLmodels/Tax-Calculator) microsimulation model. However, it has been used with other microsimulation models as well (e.g., Tax Policy Center microsimulation model). [`OG-USA` documentation](https://pslmodels.github.io/OG-USA/) is thorough and up-to-date. |
 
 ⭐️ https://www.macromodelbase.com
 * Repository of multiple macroeconomic models designed to enable systematic model comparison.
