@@ -4,7 +4,7 @@
 ## Objective
 The goal of this repository is to collect in one place the open-sourcd macroeconomic models, in particular (but not limited to) those used by central banks, ministries of finance and other offical sector agencies.
 
-If you know a model that is not listed here, please open up a pull request [here](https://github.com/dkgaraujo/OpenSourcedMacroModels/pulls). PRs for corrections are also very welcome.
+If you know a model that is not listed here, please open up a pull request [here](https://github.com/dkgaraujo/OpenSourcedMacroModels/pulls). PRs for corrections are also very welcome. Alternatively, feel free to reach out to me on [Twitter](https://twitter.com/DouglasKGAraujo).
 
 ## Official sector models
 
@@ -12,6 +12,7 @@ The table below lists models that were open sourced by official sector entities 
 
 | Jurisdiction | Institution | Model name | Model type | Link to code | Programming language | License | About |
 |---|---|---|---|---|---|---|---|
+| Australia | Reserve Bank of Australia | MARTIN | Economy-wide model based on error-correction equations | https://www.rba.gov.au/publications/rdp/2019/2019-07.html<br/>(click on "supplementary information") | EViews | "Disclaimer" section at https://www.rba.gov.au/publications/rdp/2019/2019-07/read-me.html | Model described in the paper at https://www.rba.gov.au/publications/rdp/2019/2019-07.html |
 | Chile | Banco Central de Chile | MSEP | Semi-structural model | https://www.bcentral.cl/documents/33528/2246274/sec3_3_1_structural_domestic_MSEP.zip/1d5236d2-4db2-b687-bd73-08a09fb5b316?t=1586981365357 | Matlab/Octave + Dynare | Same as for the website | Section 3.3.1 of https://www.bcentral.cl/documents/33528/2246274/Uso_de_modelos_en_el_BCCh_2020.pdf/08cdce8e-7344-4af8-01a3-93c0dc7f39db?t=1586968478573 |
 | Chile | Banco Central de Chile | XMAS | DSGE | https://www.bcentral.cl/documents/33528/2246274/sec3_3_2_structural_domestic_XMAS.zip/726db955-2713-c7d5-9ed8-9ef65eef7475?t=1586981406890 | Matlab/Octave + Dynare | Same as for the website | Section 3.3.2 of https://www.bcentral.cl/documents/33528/2246274/Uso_de_modelos_en_el_BCCh_2020.pdf/08cdce8e-7344-4af8-01a3-93c0dc7f39db?t=1586968478573 |
 | Denmark | Ministry of Finance | MAKRO | Deterministic perfect forecast model | https://github.com/DREAM-DK/MAKRO | GAMS | MIT License | |
