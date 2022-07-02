@@ -48,3 +48,8 @@ Below are other resources that are worth consulting for their wealth of model co
   *  Bayesian vector autorregressions (VAR),
   *  VAR with time-varying parameters, and
   *  dynamic factor models
+
+⭐️ https://github.com/shade-econ/nber-workshop-2022
+* NBER Spring 2022 heterogeneous-agent macro workshop
+  * Jupyter notebooks in Python, very clear to follow and learn from
+  * Tutorials range from setting up models to estimating them using data
