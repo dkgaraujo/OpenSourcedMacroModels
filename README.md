@@ -2,7 +2,7 @@
 
 
 ## Objective
-The goal of this repository is to collect in one place the open-sourcd macroeconomic models, in particular (but not limited to) those used by central banks, ministries of finance and other offical sector agencies.
+The goal of this repository is to collect in one place the open-sourced macroeconomic models, in particular (but not limited to) those used by central banks, ministries of finance and other offical sector agencies.
 
 If you know a model that is not listed here, please open up a pull request [here](https://github.com/dkgaraujo/OpenSourcedMacroModels/pulls). PRs for corrections are also very welcome. Alternatively, feel free to reach out to me on [Twitter](https://twitter.com/DouglasKGAraujo).
 
