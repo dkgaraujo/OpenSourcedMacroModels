@@ -1,6 +1,6 @@
 # OpenSourcedMacroModels
 
-**New**: working paper describing the content below, and more: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4755247
+Working paper describing the content below, and more: [SSRN version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4755247), [IFC Bulletin version](https://www.bis.org/ifc/publ/ifcb64_17_rh.pdf).
 
 ## Objective
 The goal of this repository is to collect in one place the open-sourced macroeconomic models, in particular (but not limited to) those used by central banks, ministries of finance and other offical sector agencies.
